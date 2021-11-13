@@ -85,7 +85,7 @@ public class Person
                     
 
         // Let's verify distinct people
-        System.out.println("===Distinct entries are the followings====");
+        System.out.println("Distinct entries are the followings");
         System.out.println(distinctElements);
     }
 }
